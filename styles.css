@@ -329,12 +329,16 @@ transform: scale(1.1);
     }
 
 }  
+
+
 @media (max-width:500px){
     .skills{
         margin-left: 1rem;
         margin-right: 5rem;
         width:90%;
 }
+
+
 
 .skill{
     margin-left: 1rem;
@@ -349,6 +353,8 @@ transform: scale(1.1);
     padding-left: 0.3rem;
 
 }
+
+
 .about-me-body{
     margin-left: 0.5em;
     margin-right: 1em;
